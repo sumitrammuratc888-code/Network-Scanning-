@@ -1,0 +1,139 @@
+============================================================
+Scan Starts at: 2026-04-01 14:51:57.952010
+Target Subnet:  192.168.1.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+
+Oops! Ek network error aagya: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-01 14:51:57.971830
+============================================================
+============================================================
+Scan Starts at: 2026-04-01 15:00:31.317121
+Target Subnet:  10.244.36.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+No devices found! (Ya toh network range galat hai, ya administrator rights nahi hain)
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-01 15:00:33.742797
+============================================================
+============================================================
+Scan Starts at: 2026-04-01 15:04:35.269261
+Target Subnet:  10.244.36.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+10.244.36.49       | e0:e2:58:82:99:fc    | LAPTOP-GKCDH3F2      | UP
+
+--- Port Scan start hua IP: 10.244.36.49 ke liye ---
+Nmap Error: 'nmap program was not found in path. PATH is : C:\\Windows\\System32\\Npcap;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\MinGW\\bin;C:\\Program Files\\Go\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\clangarm64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft\\jdk-17.0.18.8-hotspot\\bin;c:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\codeBin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\Sumit\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\Sumit\\go\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Users\\Sumit\\AppData\\Roaming\\npm;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Windsurf\\bin'
+Warning: Nmap software install nahi hai, isliye port scan nahi hua.
+Nmap install karein 'nmap.org' se.
+--- Port Scan finish ho gya! ---
+
+10.244.36.218      | 92:c5:93:a1:3b:de    | Unknown              | UP
+
+--- Port Scan start hua IP: 10.244.36.218 ke liye ---
+Nmap Error: 'nmap program was not found in path. PATH is : C:\\Windows\\System32\\Npcap;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\MinGW\\bin;C:\\Program Files\\Go\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\clangarm64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft\\jdk-17.0.18.8-hotspot\\bin;c:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\codeBin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\Sumit\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\Sumit\\go\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Users\\Sumit\\AppData\\Roaming\\npm;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Windsurf\\bin'
+Warning: Nmap software install nahi hai, isliye port scan nahi hua.
+Nmap install karein 'nmap.org' se.
+--- Port Scan finish ho gya! ---
+
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-01 15:04:43.467368
+============================================================
+============================================================
+Scan Starts at: 2026-04-01 15:05:15.285176
+Target Subnet:  10.244.36.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+10.244.36.49       | e0:e2:58:82:99:fc    | LAPTOP-GKCDH3F2      | UP
+
+--- Port Scan start hua IP: 10.244.36.49 ke liye ---
+Nmap Error: 'nmap program was not found in path. PATH is : C:\\Windows\\System32\\Npcap;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\MinGW\\bin;C:\\Program Files\\Go\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\clangarm64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft\\jdk-17.0.18.8-hotspot\\bin;c:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\codeBin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\Sumit\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\Sumit\\go\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Users\\Sumit\\AppData\\Roaming\\npm;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Windsurf\\bin'
+Warning: Nmap software install nahi hai, isliye port scan nahi hua.
+Nmap install karein 'nmap.org' se.
+--- Port Scan finish ho gya! ---
+
+10.244.36.218      | 92:c5:93:a1:3b:de    | Unknown              | UP
+
+--- Port Scan start hua IP: 10.244.36.218 ke liye ---
+Nmap Error: 'nmap program was not found in path. PATH is : C:\\Windows\\System32\\Npcap;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\MinGW\\bin;C:\\Program Files\\Go\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\clangarm64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft\\jdk-17.0.18.8-hotspot\\bin;c:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\codeBin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\Sumit\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\Sumit\\go\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.2\\bin;C:\\Users\\Sumit\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Users\\Sumit\\AppData\\Roaming\\npm;C:\\Users\\Sumit\\AppData\\Local\\Programs\\Windsurf\\bin'
+Warning: Nmap software install nahi hai, isliye port scan nahi hua.
+Nmap install karein 'nmap.org' se.
+--- Port Scan finish ho gya! ---
+
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-01 15:05:22.767324
+============================================================
+============================================================
+Scan Starts at: 2026-04-01 15:15:43.008172
+Target Subnet:  10.244.36.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+10.244.36.49       | e0:e2:58:82:99:fc    | LAPTOP-GKCDH3F2      | UP
+
+--- Port Scan start hua IP: 10.244.36.49 ke liye ---
+[i] Python socket se scan chal raha hai (ports 1-1024)... Thoda wait karein...
+[*] Port   135 OPEN  -> Service: epmap
+[*] Port   139 OPEN  -> Service: netbios-ssn
+[*] Port   445 OPEN  -> Service: microsoft-ds
+
+[+] Total Open Ports mile: 3
+--- Port Scan finish ho gya! ---
+
+10.244.36.218      | b2:33:b9:30:5d:90    | Unknown              | UP
+
+--- Port Scan start hua IP: 10.244.36.218 ke liye ---
+[i] Python socket se scan chal raha hai (ports 1-1024)... Thoda wait karein...
+[*] Port    53 OPEN  -> Service: domain
+
+[+] Total Open Ports mile: 1
+--- Port Scan finish ho gya! ---
+
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-01 15:33:09.551999
+============================================================
+============================================================
+Scan Starts at: 2026-04-02 14:30:11.262559
+Target Subnet:  192.168.1.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+No devices found! (Ya toh network range galat hai, ya administrator rights nahi hain)
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-02 14:30:13.899660
+============================================================
+============================================================
+Scan Starts at: 2026-04-02 14:31:08.695887
+Target Subnet:  10.244.36.0/24
+
+IP Address         | MAC Address          | Hostname             | Status
+---------------------------------------------------------------------------
+10.244.36.49       | e0:e2:58:82:99:fc    | LAPTOP-GKCDH3F2      | UP
+
+--- Port Scan start hua IP: 10.244.36.49 ke liye ---
+[i] Python socket se scan chal raha hai (ports 1-1024)... Thoda wait karein...
+[*] Port   135 OPEN  -> Service: epmap
+[*] Port   139 OPEN  -> Service: netbios-ssn
+[*] Port   445 OPEN  -> Service: microsoft-ds
+
+[+] Total Open Ports mile: 3
+--- Port Scan finish ho gya! ---
+
+10.244.36.218      | aa:7a:a6:1f:33:18    | Unknown              | UP
+
+--- Port Scan start hua IP: 10.244.36.218 ke liye ---
+[i] Python socket se scan chal raha hai (ports 1-1024)... Thoda wait karein...
+[*] Port    53 OPEN  -> Service: domain
+
+[+] Total Open Ports mile: 1
+--- Port Scan finish ho gya! ---
+
+---------------------------------------------------------------------------
+Scan Completed at: 2026-04-02 14:48:35.725146
+============================================================
